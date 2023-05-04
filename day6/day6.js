@@ -1,4 +1,4 @@
-JavaScript - Day -6: OOP in JS Task 20.02.2023
+
 
 GUVI: Zen Class — Part 1: Find the culprits and nail them — debugging javascript
 Once you are familiar with basic syntax you can reinforce your understanding by solving these simple snippets
