@@ -1,0 +1,50 @@
+.totaldiv{
+  border: 1px solid black;
+  width: 50%;
+
+}
+
+.text{
+  text-align: center;
+}
+
+.div22{
+  display: flex;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 30px;
+
+}
+#input{
+  display: table;
+}
+p{
+  display: table-row;
+
+}
+
+label{
+display: table-cell;
+text-align: right;
+padding-left: 50px;
+}
+
+.class{
+  display: table-cell;
+  padding-left: 40px;
+}
+
+.div{
+  font-size: large;
+  font-weight: bold;
+}
+
+#image{
+  border: 1px solid black;
+}
+
+.button{
+  text-align: end;
+  padding-bottom: 20px;
+  padding-right: 100px;
+}

@@ -1,0 +1,20 @@
+.checked {
+    color: orange;}
+    
+    span{
+        color: red;
+    }
+
+    table{
+       
+        padding: 5px;
+        align-self: start;
+    }
+    th{
+        padding: 10px;
+        background-color: beige;
+    }
+    tr{
+        align-self: center;
+       
+    }
